@@ -1,6 +1,8 @@
 # WoT-Legacy-Offline-Simulation-0.6.2.8
 Non-commercial technical simulation of the 0.6.2.8 client battle logic for educational purposes.
 
+Based on creations of Imperator Glekobes
+
 Hello, dear developers and players!
 
 The code below represents a standard Offline Hangar modification for the game version 0.6.2.8. It will allow you to view vehicles, modules, the old interface, etc. This modification is non-commercial, and all rights to the "World of Tanks" trademark and game resources belong to Wargaming.net or Lesta Games. The author of the project makes no claim to the intellectual property of these companies.
